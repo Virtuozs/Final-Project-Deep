@@ -1,8 +1,8 @@
 [project]
 name = "final-project-deep"
 version = "0.1.0"
-description = "Add your description here"
-readme = "proposal.md"
+description = "Indonesian law corpus built via OCR layout extraction"
+readme = "README.md"
 requires-python = ">=3.10"
 dependencies = [
     "pymupdf>=1.28.0",
