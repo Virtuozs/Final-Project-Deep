@@ -1,3 +1,12 @@
+"""Shared helpers for parsing Indonesian law PDFs via PyMuPDF's native text
+layer: law lookup (LAWS/find_pdf), OCR-confusion-tolerant Pasal/ayat heading
+regex (digit_class/heading_re), and text cleanup (clean_page/tidy). Imported
+by corpus_build_ocr.py for the same regex machinery, reused against OCR
+layout output instead of native text.
+
+Also runnable standalone to build the native, Pasal-level corpus.jsonl:
+    uv run python law_text_utils.py
+"""
 import re, json, pathlib
 import fitz  # PyMuPDF
 from collections import Counter

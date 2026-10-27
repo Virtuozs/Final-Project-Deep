@@ -1,0 +1,7 @@
+/outputs_layout
+
+__pycache__
+.venv
+
+ocr_layout_full.log
+ocr_layout.log
