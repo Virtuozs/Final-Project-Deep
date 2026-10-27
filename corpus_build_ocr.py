@@ -56,7 +56,7 @@ def ayat_label_re(n):
     return re.compile(r"^\s*Ayat\s*" + AYAT_OPEN + body + AYAT_CLOSE + r"?\s*$", re.I)
 
 
-BAB_RE = re.compile(r"^\s*BAB\s+[IVXLCDM0-9]+\b", re.I)
+BAB_RE = re.compile(r"^\s*BAB\s*[IVXLCDM0-9]+\b", re.I)  # \s* not \s+: OCR sometimes drops the space ("BABI")
 BAGIAN_RE = re.compile(r"^\s*Bagian\s+\w+\b", re.I)
 PARAGRAF_RE = re.compile(r"^\s*Paragraf\s+\w+\b", re.I)
 # \b at the end matters: without it this also matches inside "penjelasannya" (a
