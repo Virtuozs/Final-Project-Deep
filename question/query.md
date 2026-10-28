@@ -150,10 +150,219 @@
 | Q124 | OOS | Apa syarat mendirikan partai politik baru? | none |
 | Q125 | OOS | Berapa denda keterlambatan pembayaran pajak bumi dan bangunan? | none |
 
+## F. New EXP questions, full pasal coverage (Q126-Q230)
+
+| ID | Type | Question | Gold pasal |
+|---|---|---|---|
+| Q126 | EXP | Apa isi pertimbangan tertulis yang wajib dibuat Badan Publik saat ada permintaan Informasi Publik, dan siapa yang menetapkannya? | PP 61/2010 P2 |
+| Q127 | EXP | Apa saja yang wajib dimuat dalam surat penetapan klasifikasi Informasi yang Dikecualikan? | PP 61/2010 P4 |
+| Q128 | EXP | Bagaimana jangka waktu pengecualian ditetapkan untuk informasi yang berkaitan dengan hak atas kekayaan intelektual dan persaingan usaha tidak sehat? | PP 61/2010 P6 |
+| Q129 | EXP | Siapa yang menetapkan jangka waktu pengecualian informasi yang berkaitan dengan pertahanan dan keamanan negara, kekayaan alam, ketahanan ekonomi nasional, dan hubungan luar negeri? | PP 61/2010 P7 |
+| Q130 | EXP | Dalam kondisi apa Informasi Publik yang berisi rahasia pribadi seseorang dapat dibuka? | PP 61/2010 P8 |
+| Q131 | EXP | Bagaimana ketentuan Jangka Waktu Pengecualian untuk memorandum atau surat-surat antar-Badan Publik yang berkaitan dengan Informasi yang Dikecualikan? | PP 61/2010 P9 |
+| Q132 | EXP | Berdasarkan apa PPID dapat mengubah klasifikasi Informasi yang Dikecualikan? | PP 61/2010 P10 |
+| Q133 | EXP | Siapa yang berwenang menunjuk PPID di lingkungan Badan Publik Negara? | PP 61/2010 P12 |
+| Q134 | EXP | Apa syarat kompetensi yang harus dimiliki seseorang untuk menjabat PPID? | PP 61/2010 P13 |
+| Q135 | EXP | Siapa yang membantu PPID dalam melaksanakan tugasnya? | PP 61/2010 P15 |
+| Q136 | EXP | Apa yang terjadi jika pembayaran ganti rugi oleh Badan Publik Negara tidak dapat dilaksanakan dalam tahun anggaran yang sedang berjalan? | PP 61/2010 P18 |
+| Q137 | EXP | Kapan PP 61/2010 mulai berlaku? | PP 61/2010 P22 |
+| Q138 | EXP | Apa kewajiban Pengguna Informasi Publik saat memanfaatkan informasi yang diperolehnya? | UU 14/2008 P5 |
+| Q139 | EXP | Apa kewajiban Badan Publik dalam menyediakan Informasi Publik yang akurat dan tidak menyesatkan? | UU 14/2008 P7 |
+| Q140 | EXP | Berdasarkan apa Badan Publik melaksanakan kewajiban kearsipan dan pendokumentasian Informasi Publik? | UU 14/2008 P8 |
+| Q141 | EXP | Apa saja yang wajib diumumkan Badan Publik setiap tahun terkait layanan informasi? | UU 14/2008 P12 |
+| Q142 | EXP | Apa prinsip yang mendasari mekanisme untuk memperoleh Informasi Publik? | UU 14/2008 P21 |
+| Q143 | EXP | Bagaimana struktur dan kedudukan Komisi Informasi di Indonesia? | UU 14/2008 P24 |
+| Q144 | EXP | Apa saja wewenang Komisi Informasi dalam menjalankan tugasnya menyelesaikan sengketa informasi? | UU 14/2008 P27 |
+| Q145 | EXP | Kepada siapa Komisi Informasi Pusat, provinsi, dan kabupaten/kota mempertanggungjawabkan pelaksanaan tugasnya? | UU 14/2008 P28 |
+| Q146 | EXP | Siapa yang melaksanakan dukungan administratif dan keuangan untuk Komisi Informasi? | UU 14/2008 P29 |
+| Q147 | EXP | Bagaimana proses pengajuan dan pemilihan calon anggota Komisi Informasi Pusat? | UU 14/2008 P31 |
+| Q148 | EXP | Bagaimana proses pengajuan dan pemilihan calon anggota Komisi Informasi provinsi dan kabupaten/kota? | UU 14/2008 P32 |
+| Q149 | EXP | Apa saja alasan pemberhentian anggota Komisi Informasi? | UU 14/2008 P34 |
+| Q150 | EXP | Apakah putusan Komisi Informasi yang berasal dari kesepakatan Mediasi bersifat mengikat? | UU 14/2008 P39 |
+| Q151 | EXP | Apa peran anggota Komisi Informasi dalam proses Mediasi? | UU 14/2008 P41 |
+| Q152 | EXP | Apa yang dilakukan Komisi Informasi setelah menerima permohonan penyelesaian Sengketa Informasi Publik? | UU 14/2008 P44 |
+| Q153 | EXP | Siapa yang harus membuktikan alasan penolakan memberikan informasi dalam sengketa informasi? | UU 14/2008 P45 |
+| Q154 | EXP | Apa saja bentuk putusan pengadilan tata usaha negara atau pengadilan negeri dalam penyelesaian sengketa informasi publik? | UU 14/2008 P49 |
+| Q155 | EXP | Apa ancaman pidana bagi orang yang dengan sengaja menggunakan Informasi Publik secara melawan hukum? | UU 14/2008 P51 |
+| Q156 | EXP | Jika suatu pelanggaran diancam sanksi pidana baik oleh UU 14/2008 maupun undang-undang lain yang lebih khusus, sanksi mana yang berlaku? | UU 14/2008 P56 |
+| Q157 | EXP | Apakah tuntutan pidana berdasarkan UU 14/2008 merupakan delik aduan? | UU 14/2008 P57 |
+| Q158 | EXP | Paling lambat kapan Komisi Informasi Pusat harus dibentuk sejak UU 14/2008 diundangkan? | UU 14/2008 P59 |
+| Q159 | EXP | Paling lambat kapan Komisi Informasi provinsi harus dibentuk? | UU 14/2008 P60 |
+| Q160 | EXP | Apa yang harus dilaksanakan Badan Publik pada saat UU 14/2008 mulai diberlakukan? | UU 14/2008 P61 |
+| Q161 | EXP | Kapan Peraturan Pemerintah pelaksana UU 14/2008 harus sudah ditetapkan? | UU 14/2008 P62 |
+| Q162 | EXP | Apakah peraturan perundang-undangan lama tentang perolehan informasi masih berlaku setelah UU 14/2008 berlaku? | UU 14/2008 P63 |
+| Q163 | EXP | Berapa lama setelah diundangkan UU 14/2008 mulai berlaku? | UU 14/2008 P64 |
+| Q164 | EXP | Apa yang dimaksud dengan Penyelenggara dan Pelaksana pelayanan publik menurut UU 25/2009? | UU 25/2009 P1 |
+| Q165 | EXP | Siapa saja yang berperan sebagai pembina penyelenggaraan pelayanan publik? | UU 25/2009 P6 |
+| Q166 | EXP | Apa tugas penanggung jawab dan menteri yang membidangi pendayagunaan aparatur negara dalam pelayanan publik? | UU 25/2009 P7 |
+| Q167 | EXP | Apa tujuan penyelenggaraan sistem pelayanan terpadu? | UU 25/2009 P9 |
+| Q168 | EXP | Apa kewajiban penyelenggara terkait evaluasi kinerja pelaksana? | UU 25/2009 P10 |
+| Q169 | EXP | Bagaimana ketentuan penyeleksian, promosi, penghargaan, dan hukuman bagi pelaksana pelayanan publik? | UU 25/2009 P11 |
+| Q170 | EXP | Dalam keadaan apa penyelenggara dapat meminta bantuan kerja sama dari penyelenggara lain? | UU 25/2009 P12 |
+| Q171 | EXP | Apa saja hak yang dimiliki penyelenggara pelayanan publik? | UU 25/2009 P14 |
+| Q172 | EXP | Apa saja kewajiban Pelaksana dalam penyelenggaraan pelayanan publik? | UU 25/2009 P16 |
+| Q173 | EXP | Apa kewajiban masyarakat dalam penyelenggaraan pelayanan publik? | UU 25/2009 P19 |
+| Q174 | EXP | Bagaimana prinsip penyusunan standar pelayanan yang melibatkan masyarakat? | UU 25/2009 P20 |
+| Q175 | EXP | Apakah dokumen atau akta elektronik dalam penyelenggaraan pelayanan publik dinyatakan sah? | UU 25/2009 P24 |
+| Q176 | EXP | Apa yang dilarang bagi penyelenggara terkait penggunaan sarana dan fasilitas pelayanan publik? | UU 25/2009 P26 |
+| Q177 | EXP | Apakah saham penyelenggara berbentuk BUMN/BUMD yang berkaitan dengan pelayanan publik boleh dipindahtangankan? | UU 25/2009 P27 |
+| Q178 | EXP | Apa kewajiban penyelenggara terkait pelayanan dengan perlakuan khusus bagi masyarakat tertentu? | UU 25/2009 P29 |
+| Q179 | EXP | Apa syarat penyelenggaraan pelayanan berjenjang menurut UU 25/2009? | UU 25/2009 P30 |
+| Q180 | EXP | Dari mana penyelenggara memperoleh alokasi anggaran untuk pelayanan publik? | UU 25/2009 P32 |
+| Q181 | EXP | Apa kewajiban negara dan korporasi dalam mengalokasikan anggaran untuk pelayanan publik? | UU 25/2009 P33 |
+| Q182 | EXP | Apa bentuk pengawasan internal dan eksternal terhadap penyelenggaraan pelayanan publik? | UU 25/2009 P35 |
+| Q183 | EXP | Apa kewajiban penyelenggara terkait penilaian kinerja pelayanan publik secara berkala? | UU 25/2009 P38 |
+| Q184 | EXP | Siapa yang bisa mengajukan pengaduan pelayanan publik dan berapa batas waktunya? | UU 25/2009 P42 |
+| Q185 | EXP | Apakah pengadu berhak meminta dokumen pendukung dari penyelenggara untuk pengaduannya? | UU 25/2009 P43 |
+| Q186 | EXP | Apa yang wajib dimuat dalam tanda terima pengaduan dan berapa batas waktu penyelenggara menanggapinya? | UU 25/2009 P44 |
+| Q187 | EXP | Kepada siapa pengaduan terhadap pelaksana dan penyelenggara pelayanan publik ditujukan? | UU 25/2009 P45 |
+| Q188 | EXP | Apa kewajiban penyelenggara dalam memeriksa pengaduan masyarakat? | UU 25/2009 P47 |
+| Q189 | EXP | Apa prinsip yang wajib dipegang penyelenggara dalam memeriksa materi pengaduan? | UU 25/2009 P48 |
+| Q190 | EXP | Apa yang bisa dilakukan masyarakat jika penyelenggara melakukan perbuatan melawan hukum dalam pelayanan publik? | UU 25/2009 P52 |
+| Q191 | EXP | Apa yang bisa dilakukan masyarakat jika penyelenggara diduga melakukan tindak pidana dalam pelayanan publik? | UU 25/2009 P53 |
+| Q192 | EXP | Kapan penyelenggara atau pelaksana dikenai denda akibat tidak melaksanakan kewajibannya? | UU 25/2009 P56 |
+| Q193 | EXP | Kapan pimpinan penyelenggara dapat diproses ke lembaga peradilan umum? | UU 25/2009 P58 |
+| Q194 | EXP | Berapa lama peraturan lama tentang pelayanan publik harus disesuaikan dengan UU 25/2009? | UU 25/2009 P59 |
+| Q195 | EXP | Apa saja peraturan pemerintah turunan yang harus ditetapkan setelah UU 25/2009 diundangkan, dan berapa batas waktunya? | UU 25/2009 P60 |
+| Q196 | EXP | Sejak tahun anggaran berapa kewajiban negara menanggung beban pelayanan harus dipenuhi? | UU 25/2009 P61 |
+| Q197 | EXP | Kapan UU 25/2009 mulai berlaku? | UU 25/2009 P62 |
+| Q198 | EXP | Apa yang dimaksud dengan Data Pribadi dan Pengendali Data Pribadi menurut UU 27/2022? | UU 27/2022 P1 |
+| Q199 | EXP | Apa hak Subjek Data Pribadi untuk melengkapi dan memperbaiki datanya? | UU 27/2022 P6 |
+| Q200 | EXP | Apa hak Subjek Data Pribadi untuk mengakhiri, menghapus, atau memusnahkan data pribadinya? | UU 27/2022 P8 |
+| Q201 | EXP | Apa hak Subjek Data Pribadi terkait keputusan yang diambil secara otomatis termasuk pemrofilan? | UU 27/2022 P10 |
+| Q202 | EXP | Apa hak Subjek Data Pribadi untuk menunda atau membatasi pemrosesan datanya? | UU 27/2022 P11 |
+| Q203 | EXP | Bagaimana cara Subjek Data Pribadi mengajukan pelaksanaan haknya kepada Pengendali Data Pribadi? | UU 27/2022 P14 |
+| Q204 | EXP | Apa saja informasi yang wajib disampaikan Pengendali Data Pribadi saat pemrosesan data berdasarkan persetujuan? | UU 27/2022 P21 |
+| Q205 | EXP | Bagaimana status klausul perjanjian yang meminta pemrosesan data pribadi tanpa persetujuan eksplisit yang sah? | UU 27/2022 P23 |
+| Q206 | EXP | Apa kewajiban Pengendali Data Pribadi terkait bukti persetujuan dari Subjek Data Pribadi? | UU 27/2022 P24 |
+| Q207 | EXP | Apa prinsip yang wajib dipenuhi Pengendali Data Pribadi dalam melakukan pemrosesan Data Pribadi? | UU 27/2022 P27 |
+| Q208 | EXP | Apa kewajiban Pengendali Data Pribadi terkait akurasi dan kelengkapan Data Pribadi yang diprosesnya? | UU 27/2022 P29 |
+| Q209 | EXP | Apa kewajiban Pengendali Data Pribadi terkait perekaman kegiatan pemrosesan Data Pribadi? | UU 27/2022 P31 |
+| Q210 | EXP | Berapa lama Pengendali Data Pribadi wajib memberikan akses kepada Subjek Data Pribadi setelah menerima permintaan? | UU 27/2022 P32 |
+| Q211 | EXP | Dalam kondisi apa Pengendali Data Pribadi wajib menolak memberikan akses perubahan data kepada Subjek Data Pribadi? | UU 27/2022 P33 |
+| Q212 | EXP | Apa kewajiban Pengendali Data Pribadi terhadap pihak lain yang terlibat dalam pemrosesan Data Pribadi? | UU 27/2022 P37 |
+| Q213 | EXP | Apa kewajiban Pengendali Data Pribadi untuk melindungi Data Pribadi dari pemrosesan yang tidak sah? | UU 27/2022 P38 |
+| Q214 | EXP | Bagaimana Pengendali Data Pribadi wajib mencegah Data Pribadi diakses secara tidak sah? | UU 27/2022 P39 |
+| Q215 | EXP | Dalam hal apa Pengendali Data Pribadi wajib mengakhiri pemrosesan Data Pribadi? | UU 27/2022 P42 |
+| Q216 | EXP | Dalam hal apa Pengendali Data Pribadi wajib memusnahkan Data Pribadi? | UU 27/2022 P44 |
+| Q217 | EXP | Apa kewajiban Pengendali Data Pribadi setelah menghapus atau memusnahkan Data Pribadi? | UU 27/2022 P45 |
+| Q218 | EXP | Apa tanggung jawab Pengendali Data Pribadi atas pemrosesan Data Pribadi yang dilakukannya? | UU 27/2022 P47 |
+| Q219 | EXP | Apa kewajiban Pengendali dan Prosesor Data Pribadi terhadap perintah lembaga pengawas pelindungan data pribadi? | UU 27/2022 P49 |
+| Q220 | EXP | Untuk kepentingan apa saja kewajiban tertentu Pengendali Data Pribadi dapat dikecualikan? | UU 27/2022 P50 |
+| Q221 | EXP | Apa kewajiban Pengendali Data Pribadi saat melakukan transfer Data Pribadi di dalam wilayah hukum Indonesia? | UU 27/2022 P55 |
+| Q222 | EXP | Apa saja tugas lembaga yang menyelenggarakan Pelindungan Data Pribadi? | UU 27/2022 P59 |
+| Q223 | EXP | Diatur di mana tata cara pelaksanaan wewenang lembaga pelindungan data pribadi? | UU 27/2022 P61 |
+| Q224 | EXP | Dengan siapa kerja sama internasional terkait Pelindungan Data Pribadi dapat dilakukan? | UU 27/2022 P62 |
+| Q225 | EXP | Apa pidana tambahan yang dapat dijatuhkan selain pidana pokok dalam tindak pidana data pribadi? | UU 27/2022 P69 |
+| Q226 | EXP | Berapa jangka waktu yang diberikan kepada terpidana untuk membayar pidana denda data pribadi? | UU 27/2022 P71 |
+| Q227 | EXP | Apa sanksi pengganti bagi Korporasi yang tidak dapat melunasi pidana denda data pribadi? | UU 27/2022 P72 |
+| Q228 | EXP | Apakah ketentuan penyitaan dan pelelangan untuk pidana denda juga berlaku untuk pidana tambahan ganti kerugian? | UU 27/2022 P73 |
+| Q229 | EXP | Berapa lama Pengendali dan Prosesor Data Pribadi wajib menyesuaikan diri dengan UU 27/2022 sejak diundangkan? | UU 27/2022 P74 |
+| Q230 | EXP | Apakah ketentuan peraturan perundang-undangan lama tentang pelindungan data pribadi masih berlaku setelah UU 27/2022 diundangkan? | UU 27/2022 P75 |
+
+## G. New SIT questions (Q231-Q270)
+
+| ID | Type | Question | Gold pasal |
+|---|---|---|---|
+| Q231 | SIT | Saya ingin tahu siapa yang menanggung pembayaran ganti rugi kalau Badan Publik Negara tidak sanggup membayarnya tahun ini. | PP 61/2010 P18 |
+| Q232 | SIT | PPID di kantor saya mengubah status sebuah dokumen dari rahasia menjadi terbuka. Atas dasar apa itu bisa dilakukan? | PP 61/2010 P10 |
+| Q233 | SIT | Instansi menolak memberi saya dokumen dengan alasan itu memorandum internal antar pejabat. Apakah itu termasuk informasi yang bisa dikecualikan? | PP 61/2010 P9 |
+| Q234 | SIT | Saya melihat ada pejabat PPID yang baru diangkat tanpa pengalaman di bidang informasi. Apakah itu sesuai aturan? | PP 61/2010 P13 |
+| Q235 | SIT | Badan Publik saya menyatakan sebuah dokumen rahasia karena menyangkut hak kekayaan intelektual pihak ketiga. Berapa lama itu bisa dikecualikan? | PP 61/2010 P6 |
+| Q236 | SIT | Saya ingin melaporkan Badan Publik yang tidak pernah membuat laporan tahunan tentang jumlah permintaan informasi yang diterima. Apakah itu kewajiban mereka? | UU 14/2008 P12 |
+| Q237 | SIT | Sebuah lembaga menolak informasi saya dengan alasan belum punya sistem informasi dan dokumentasi. Apakah itu alasan yang sah? | UU 14/2008 P7 |
+| Q238 | SIT | Saya curiga Komisi Informasi provinsi di daerah saya belum terbentuk padahal sudah lebih dari 2 tahun UU ini berlaku. Apakah itu pelanggaran? | UU 14/2008 P60 |
+| Q239 | SIT | Saya menang sengketa informasi di pengadilan, tapi Badan Publik ternyata tidak pernah membuktikan alasan penolakannya. Apakah itu sesuai aturan? | UU 14/2008 P45 |
+| Q240 | SIT | Saya ingin tahu, kalau dalam sengketa informasi hakim memutuskan membatalkan putusan Komisi Informasi, apa isi putusan yang mungkin dikeluarkan? | UU 14/2008 P49 |
+| Q241 | SIT | Saya ingin mengadukan pelayanan publik yang buruk, tapi tidak tahu harus ditujukan ke siapa karena pelaksananya pegawai biasa, bukan pejabat. | UU 25/2009 P45 |
+| Q242 | SIT | Pengaduan saya ke kantor pelayanan belum ditanggapi sama sekali setelah dua minggu. Apakah ada batas waktu mereka harus menanggapi? | UU 25/2009 P44 |
+| Q243 | SIT | Saya ingin melengkapi bukti dalam pengaduan saya tapi butuh dokumen dari penyelenggara itu sendiri. Apakah mereka wajib memberikannya? | UU 25/2009 P43 |
+| Q244 | SIT | Penyelenggara pelayanan menolak memeriksa pengaduan saya dengan alasan sudah lewat sebulan sejak saya menerima pelayanan. Apakah ada batas waktu pengajuan pengaduan? | UU 25/2009 P42 |
+| Q245 | SIT | Petugas yang memeriksa pengaduan saya ternyata berasal dari unit yang sama dengan yang saya adukan. Apakah itu melanggar prinsip pemeriksaan pengaduan? | UU 25/2009 P48 |
+| Q246 | SIT | Fasilitas pelayanan publik jalur khusus difabel di kantor saya dipakai oleh orang yang bukan haknya. Apakah itu dilarang? | UU 25/2009 P29 |
+| Q247 | SIT | Saya dengar penyelenggara pelayanan publik memakai anggaran pelayanan untuk kegiatan lain yang tidak berhubungan. Apakah itu dilarang? | UU 25/2009 P33 |
+| Q248 | SIT | Saham BUMN penyedia layanan publik di kota saya akan dijual ke pihak swasta. Apakah itu diperbolehkan menurut UU Pelayanan Publik? | UU 25/2009 P27 |
+| Q249 | SIT | Saya ingin tahu apakah dokumen hasil pelayanan publik yang diterbitkan secara elektronik sah secara hukum. | UU 25/2009 P24 |
+| Q250 | SIT | Penyelenggara di kantor saya tidak pernah melakukan evaluasi kinerja pelaksananya sama sekali. Apakah itu melanggar kewajiban mereka? | UU 25/2009 P10 |
+| Q251 | SIT | Saya minta sebuah aplikasi menghapus data pribadi saya sepenuhnya, bukan hanya berhenti memakainya. Apakah saya punya hak itu? | UU 27/2022 P8 |
+| Q252 | SIT | Sebuah sistem menolak permohonan kredit saya hanya berdasarkan skor otomatis tanpa penjelasan manusia. Apakah saya bisa keberatan? | UU 27/2022 P10 |
+| Q253 | SIT | Saya ingin pemrosesan data pribadi saya ditunda dulu sementara saya pikirkan lagi. Apakah itu hak saya? | UU 27/2022 P11 |
+| Q254 | SIT | Saya tidak tahu lewat jalur apa saya harus mengajukan permintaan akses data pribadi saya ke sebuah perusahaan. | UU 27/2022 P14 |
+| Q255 | SIT | Perusahaan tempat saya mendaftar mengubah tujuan penggunaan data saya tanpa memberi tahu saya lebih dulu. Apakah itu melanggar kewajiban mereka? | UU 27/2022 P21 |
+| Q256 | SIT | Saya tanda tangan kontrak yang di dalamnya ada klausul pemrosesan data saya tanpa saya menyetujuinya secara eksplisit. Apakah klausul itu sah? | UU 27/2022 P23 |
+| Q257 | SIT | Saya minta perusahaan menunjukkan bukti bahwa saya pernah menyetujui pemrosesan data saya, tapi mereka tidak bisa menunjukkannya. Apakah itu melanggar kewajiban mereka? | UU 27/2022 P24 |
+| Q258 | SIT | Saya curiga data saya yang dipegang sebuah perusahaan tidak pernah diverifikasi keakuratannya selama bertahun-tahun. | UU 27/2022 P29 |
+| Q259 | SIT | Saya minta data saya dimusnahkan karena masa retensinya sudah habis, tapi perusahaan menunda tanpa alasan jelas. Apakah mereka wajib memusnahkannya? | UU 27/2022 P44 |
+| Q260 | SIT | Setelah data saya dihapus oleh sebuah layanan, saya tidak pernah diberi tahu soal itu. Apakah mereka wajib memberi tahu saya? | UU 27/2022 P45 |
+| Q261 | SIT | Sebuah perusahaan asuransi memproses data kesehatan saya tanpa pernah mencatat kegiatan pemrosesannya. Apakah itu melanggar kewajiban mereka? | UU 27/2022 P31 |
+| Q262 | SIT | Saya ingin tahu apakah vendor pihak ketiga yang membantu memproses data saya atas nama sebuah perusahaan juga wajib diawasi oleh perusahaan itu. | UU 27/2022 P37 |
+| Q263 | SIT | Sistem perusahaan tempat saya menyimpan data diretas karena tidak ada pengamanan sama sekali. Apakah itu melanggar kewajiban mereka mencegah akses tidak sah? | UU 27/2022 P39 |
+| Q264 | SIT | Saya terkena denda dari pengadilan terkait pelanggaran data pribadi dan tidak mampu membayar tepat waktu. Apa yang terjadi pada harta saya? | UU 27/2022 P71 |
+| Q265 | SIT | Perusahaan tempat saya bekerja adalah sebuah Korporasi yang terkena pidana denda tapi hartanya tidak cukup untuk melunasi. Apa sanksi penggantinya? | UU 27/2022 P72 |
+| Q266 | SIT | Saya mau tahu, kalau UU Pelindungan Data Pribadi baru berlaku, berapa lama perusahaan diberi waktu untuk menyesuaikan sistem mereka? | UU 27/2022 P74 |
+| Q267 | SIT | Saya ingin tahu apakah peraturan lama tentang pelindungan data pribadi otomatis dicabut begitu UU 27/2022 berlaku. | UU 27/2022 P75 |
+| Q268 | SIT | Komisi Informasi di provinsi saya memutuskan sengketa informasi lewat Mediasi dan kedua pihak sepakat. Apakah putusan itu bisa diubah lagi nanti? | UU 14/2008 P39 |
+| Q269 | SIT | Saya baru tahu PPID di kantor instansi saya ditunjuk langsung oleh pimpinan Badan Publik, bukan dipilih lewat seleksi terbuka. Apakah itu sesuai aturan? | PP 61/2010 P12 |
+| Q270 | SIT | Saya ingin tahu kapan kewajiban negara untuk menanggung sebagian beban biaya pelayanan publik harus mulai dipenuhi. | UU 25/2009 P61 |
+
+## H. New CROSS questions (Q271-Q285)
+
+| ID | Type | Question | Gold pasal |
+|---|---|---|---|
+| Q271 | CROSS | Sebuah instansi pemerintah menerima pengaduan masyarakat lewat sistem elektronik yang juga menyimpan data pribadi pengadu. Aturan apa yang mengatur keduanya? | UU 25/2009 P42; UU 27/2022 P27 |
+| Q272 | CROSS | PPID menolak permintaan informasi karena dokumen itu berisi data kesehatan seseorang. Apakah data semacam itu termasuk data pribadi yang bisa jadi alasan pengecualian informasi? | UU 14/2008 P17; UU 27/2022 P1 |
+| Q273 | CROSS | Badan Publik ingin membuka data pribadi pejabatnya untuk memenuhi permintaan informasi publik tentang kinerja. Apakah itu melanggar kewajiban melindungi data pribadi? | UU 14/2008 P7; UU 27/2022 P38 |
+| Q274 | CROSS | Sebuah penyelenggara pelayanan publik memakai data pribadi pengadu untuk keperluan promosi layanan lain. Apakah itu melanggar aturan pelayanan publik, pelindungan data pribadi, atau keduanya? | UU 25/2009 P48; UU 27/2022 P27 |
+| Q275 | CROSS | Saya ingin tahu apakah lembaga yang mengawasi pelindungan data pribadi punya kewenangan serupa dengan Komisi Informasi dalam menyelesaikan sengketa. | UU 27/2022 P59; UU 14/2008 P27 |
+| Q276 | CROSS | Apakah Badan Publik yang menyelenggarakan pelayanan publik dan memegang data pribadi warga tunduk pada dua undang-undang sekaligus soal kewajiban keamanan data? | UU 25/2009 P1; UU 27/2022 P39 |
+| Q277 | CROSS | Saya memohon informasi publik berupa data pengaduan warga lain ke sebuah dinas. Apakah permintaan itu bisa ditolak karena menyangkut data pribadi pengadu? | UU 14/2008 P17; UU 25/2009 P42 |
+| Q278 | CROSS | Apakah Pengendali Data Pribadi yang juga berstatus Badan Publik tunduk pada kewajiban akses data menurut UU Pelindungan Data Pribadi maupun UU Keterbukaan Informasi Publik? | UU 27/2022 P32; UU 14/2008 P7 |
+| Q279 | CROSS | Komisi Informasi memutuskan sengketa yang melibatkan dokumen berisi data pribadi pihak ketiga lewat mediasi. Apakah putusan itu mengikat, dan bagaimana data pribadi di dalamnya seharusnya dilindungi? | UU 14/2008 P39; UU 27/2022 P27 |
+| Q280 | CROSS | Jika penyelenggara pelayanan publik diduga melakukan tindak pidana karena membocorkan data pribadi warga, jalur hukum mana yang berlaku? | UU 25/2009 P53; UU 27/2022 P69 |
+| Q281 | CROSS | Apakah korporasi penyelenggara layanan publik bisa dikenai sanksi pengganti berupa pembekuan usaha, sama seperti korporasi yang melanggar UU Pelindungan Data Pribadi? | UU 25/2009 P56; UU 27/2022 P72 |
+| Q282 | CROSS | Kalau penyelenggara pelayanan publik bekerja sama dengan pihak asing yang mengelola data warga, aturan kerja sama internasional mana yang berlaku? | UU 25/2009 P12; UU 27/2022 P62 |
+| Q283 | CROSS | Apakah masa penyesuaian dua tahun untuk mematuhi aturan baru berlaku sama antara UU Keterbukaan Informasi Publik dan UU Pelindungan Data Pribadi? | UU 14/2008 P64; UU 27/2022 P74 |
+| Q284 | CROSS | Jika Badan Publik menolak memberi informasi dengan alasan pertahanan dan keamanan negara, apakah alasan serupa juga bisa dipakai Pengendali Data Pribadi untuk mengecualikan kewajibannya? | PP 61/2010 P7; UU 27/2022 P50 |
+| Q285 | CROSS | Apakah lembaga pengawas pelindungan data pribadi dan Ombudsman sama-sama berwenang memfasilitasi penyelesaian sengketa di luar pengadilan? | UU 27/2022 P59; UU 25/2009 P46 |
+
+## I. New OOS questions (Q286-Q310)
+
+| ID | Type | Question | Gold pasal |
+|---|---|---|---|
+| Q286 | OOS | Apa sanksi bagi pelaku penipuan online menurut UU ITE? | none |
+| Q287 | OOS | Bagaimana prosedur mengajukan hak asuh anak setelah perceraian? | none |
+| Q288 | OOS | Apa syarat untuk mendapatkan surat izin usaha mikro kecil? | none |
+| Q289 | OOS | Berapa lama masa berlaku SIM setelah diperpanjang? | none |
+| Q290 | OOS | Apa hak konsumen jika barang yang dibeli secara online tidak sesuai pesanan? | none |
+| Q291 | OOS | Bagaimana cara melaporkan pencemaran nama baik di media sosial? | none |
+| Q292 | OOS | Apa syarat seseorang bisa dikenakan status tersangka menurut KUHAP? | none |
+| Q293 | OOS | Berapa besaran pesangon yang wajib dibayarkan perusahaan saat PHK? | none |
+| Q294 | OOS | Apa syarat untuk mengganti nama di kartu keluarga? | none |
+| Q295 | OOS | Bagaimana cara mendaftarkan hak cipta sebuah karya tulis? | none |
+| Q296 | OOS | Apa ketentuan tentang poligami dalam hukum perkawinan di Indonesia? | none |
+| Q297 | OOS | Berapa tarif PPN yang berlaku saat ini untuk barang mewah? | none |
+| Q298 | OOS | Apa syarat seseorang bisa mendirikan yayasan sosial? | none |
+| Q299 | OOS | Bagaimana prosedur adopsi anak secara legal di Indonesia? | none |
+| Q300 | OOS | Apa hukuman bagi pelaku pencurian menurut KUHP? | none |
+| Q301 | OOS | Berapa lama cuti tahunan yang wajib diberikan perusahaan kepada karyawan? | none |
+| Q302 | OOS | Apa syarat mengurus sertifikat tanah di BPN? | none |
+| Q303 | OOS | Bagaimana mekanisme gugatan class action untuk sengketa konsumen? | none |
+| Q304 | OOS | Apa ketentuan tentang pembagian warisan menurut hukum perdata? | none |
+| Q305 | OOS | Berapa denda bagi perusahaan yang mempekerjakan tenaga kerja asing tanpa izin? | none |
+| Q306 | OOS | Apa syarat pendirian lembaga keuangan mikro syariah? | none |
+| Q307 | OOS | Bagaimana prosedur mengurus perubahan status kewarganegaraan? | none |
+| Q308 | OOS | Apa sanksi bagi pelaku pelanggaran hak cipta musik secara komersial? | none |
+| Q309 | OOS | Berapa batas usia minimal untuk menikah menurut undang-undang perkawinan? | none |
+| Q310 | OOS | Apa syarat membuka rekening bank untuk badan usaha? | none |
+
 ## Notes for the proposal
 
-- 125 questions total: EXP 50 (40%), SIT 39 (31%), CROSS 18 (14%), OOS 18 (14%) -- on target with the 40/30/15/15 split and within the 100-150 goal.
-- All Gold pasal citations were checked programmatically against `corpus-ocr.jsonl` (every `law_short`/`pasal` pair referenced here exists as at least one ayat chunk in the corpus). This caught a real extraction bug along the way: UU 27/2022's OCR output was initially missing Pasal 1-2 entirely (a "BAB I"/"BABI" heading-detection miss in `corpus_build_ocr.py`, since fixed), which is why Q042 originally failed to resolve.
-- SIT questions (Q011-Q018, Q026-Q030, Q036-Q040, Q058-Q064, Q073-Q078, Q089-Q096) test the "describe a problem and get the relevant pasal" use case directly.
-- CROSS questions (Q041-Q044, Q097-Q110) need pasal from two laws. Report hit@k for these separately, because retrievers often find only one of the two.
-- OOS questions (Q045-Q047, Q111-Q125) measure hallucination. A system that confidently cites a pasal here is failing.
+- 310 questions total: EXP 155 (50%), SIT 79 (25%), CROSS 33 (11%), OOS 43 (14%).
+- Q001-Q125 are the original proposal-stage set (EXP 50, SIT 39, CROSS 18, OOS 18).
+- Q126-Q310 were added later to close a coverage gap: 106 of 223 pasal (48%) had no gold question pointing to them in the original 125-question set. Q126-Q230 add one EXP question per previously-uncovered pasal (105 questions; UU 27/2022 Pasal 76 skipped, its OCR text is truncated to a single boilerplate sentence). Q231-Q310 add more SIT, CROSS, and OOS questions for better type balance and stronger hallucination testing.
+- All gold pasal citations in Q126-Q310, like Q001-Q125, were checked programmatically against corpus-ocr.jsonl (every law_short/pasal pair referenced exists as at least one ayat chunk in the corpus); 0 invalid citations found. A near-duplicate check (word-set Jaccard similarity) found only pairs that are legitimate parallel questions about different pasal with different gold answers (e.g. "Kapan Komisi Informasi Pusat harus dibentuk?" vs the matching question for Komisi Informasi provinsi), not a leakage risk, since the split groups questions by shared gold pasal, not by question wording.
+- All Gold pasal citations in the original set were checked programmatically against corpus-ocr.jsonl (every law_short/pasal pair referenced here exists as at least one ayat chunk in the corpus). This caught a real extraction bug along the way: UU 27/2022's OCR output was initially missing Pasal 1-2 entirely (a "BAB I"/"BABI" heading-detection miss in corpus_build_ocr.py, since fixed), which is why Q042 originally failed to resolve.
+- SIT questions (Q011-Q018, Q026-Q030, Q036-Q040, Q058-Q064, Q073-Q078, Q089-Q096, Q231-Q270) test the "describe a problem and get the relevant pasal" use case directly.
+- CROSS questions (Q041-Q044, Q097-Q110, Q271-Q285) need pasal from two laws. Report hit@k for these separately, because retrievers often find only one of the two.
+- OOS questions (Q045-Q047, Q111-Q125, Q286-Q310) measure hallucination. A system that confidently cites a pasal here is failing.
+- Rerun Section 06 (split and leakage check) on the full 310-question set before reusing any results computed on the 125-question set: the larger pasal-group structure (many more EXP questions now sharing single-pasal groups) will very likely shift the actual train/val/test counts and proportions away from the 60/15/25 reported earlier.
