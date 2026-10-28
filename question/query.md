@@ -1,18 +1,4 @@
-# Example Query Set (draft)
-
-Gold labels were checked against the corpus. Verify each one against the full pasal text before freezing the test set. Some pasal have several ayat, and a question may need more than one pasal.
-
-**Format:** `ID | Type | Question | Gold pasal`
-**Types:** EXP = explanation, SIT = situation, CROSS = cross-law, OOS = out of scope (no answer in the corpus)
-
-## How to build the full set
-
-- Target [100-150] questions. Aim for roughly 40% EXP, 30% SIT, 15% CROSS, 15% OOS.
-  **Status: 125 questions drafted, ratios on target (see Notes below) -- still needs a human pass.**
-- Write 2-3 paraphrases of the same question (formal and everyday wording) and keep them in the same split group.
-  **Not yet done for Q048-Q125 -- each is currently a single phrasing, not a paraphrase group.**
-- Write the test split by hand. Freeze it before any training or tuning.
-- Record gold pasal as a list, since some questions have more than one correct pasal.
+# Example Query Set
 
 ## A. UU 14/2008 and PP 61/2010 (Keterbukaan Informasi Publik)
 
